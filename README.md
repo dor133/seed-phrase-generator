@@ -22,6 +22,7 @@ For example, to generate a seed phrase of 12 words, run the following command in
 ```
 python SeedPhraseGenerator.py 12
 ```
+By default, it will print the seed in your terminal.
 
 ## Options
 It is possible to generate variable length seed, and in different languages.
