@@ -1,7 +1,7 @@
-# SeedPhraseGenerator
+# Seed Phrase Generator
 This Python script generates seed phrases of various lengths and in different languages.
 
-This script use the library "mnemonic" (https://github.com/trezor/python-mnemonic) to generate seed phrases, which is an implementation of BIP-0039.
+This script use the library [mnemonic](https://github.com/trezor/python-mnemonic) to generate seed phrases, which is an implementation of BIP-0039.
 
 ## Getting Started
 ### Prerequisites
@@ -18,7 +18,7 @@ This script use the library "mnemonic" (https://github.com/trezor/python-mnemoni
     ```
 
 ## How to use
-For example, to generate a seed phrase of 12 words, run the following command in your terminal:
+You can generate seed phrases of various length. For example, to generate a seed phrase of 12 words, run the following command in your terminal:
 ```
 python SeedPhraseGenerator.py 12
 ```
